@@ -1,0 +1,3 @@
+[{"Firstname":"Tony", "Lastname":"Stark", "Username":"Ironman", "Password":"Loveyou3000", "email":"tony@gmail.com", "role":"user"},
+ {"Firstname":"kongkiet", "Lastname":"kuchart", "Username":"jeen", "Password":"1234", "email":"dog@gmail.com", "role":"admin"},
+ {"Firstname":"Thor", "Lastname":"Odinson", "Username":"Ragnarok", "Password":"Pointbreak2012", "email":"thor@gmail.com", "role":"user"}]
